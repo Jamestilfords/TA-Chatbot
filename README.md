@@ -1,2 +1,2 @@
 # TA-Chatbot
-Using LLM-RAG techniques to create an electronic teaching assistant that can scan provide images/screenshots related to the question in its answers
+LLM-RAG electronic teaching assistant with PDF/OCR uploads + optional YouTube timestamps and Stack Overflow/Piazza enrichment.
